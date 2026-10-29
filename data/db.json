@@ -1,0 +1,369 @@
+{
+  "opportunities": [
+    {
+      "id": "opp-1",
+      "title": "Startup Product Design",
+      "category": "Design",
+      "type": "Project Type: Paid Project",
+      "tags": [
+        "UI/UX",
+        "Design",
+        "Research"
+      ],
+      "description": "Shape a clear, user-friendly experience for an early-stage product team.",
+      "skills": [
+        "UI/UX",
+        "Figma",
+        "Research"
+      ],
+      "level": "Beginner friendly"
+    },
+    {
+      "id": "opp-2",
+      "title": "Website Development",
+      "category": "Development",
+      "type": "Project Type: Internship",
+      "tags": [
+        "React",
+        "Web",
+        "Frontend"
+      ],
+      "description": "Help a small team build and improve a responsive website.",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "level": "Beginner friendly"
+    },
+    {
+      "id": "opp-3",
+      "title": "Market Research",
+      "category": "Research",
+      "type": "Project Type: Project",
+      "tags": [
+        "Research",
+        "Strategy",
+        "Data"
+      ],
+      "description": "Research customer needs and turn findings into practical recommendations.",
+      "skills": [
+        "Research",
+        "Communication",
+        "Analysis"
+      ],
+      "level": "All levels"
+    },
+    {
+      "id": "opp-4",
+      "title": "Data Analysis",
+      "category": "Data",
+      "type": "Project Type: Project",
+      "tags": [
+        "Python",
+        "Excel",
+        "Analytics"
+      ],
+      "description": "Explore a sample dataset and share insights that support a business decision.",
+      "skills": [
+        "Python",
+        "Excel",
+        "Data analysis"
+      ],
+      "level": "Beginner friendly"
+    },
+    {
+      "id": "opp-5",
+      "title": "Prototype a New Idea",
+      "category": "Innovation",
+      "type": "Project Type: Challenge",
+      "tags": [
+        "Prototype",
+        "MVP",
+        "Innovation"
+      ],
+      "description": "Work with a cross-functional team to turn a problem statement into an MVP concept.",
+      "skills": [
+        "Ideation",
+        "Teamwork",
+        "Prototyping"
+      ],
+      "level": "All levels"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "27a9947e-94d5-48ee-9219-94f12d4208a8",
+      "name": "Ganesh",
+      "email": "g94379811@gmail.com",
+      "role": "Student",
+      "skills": [
+        "java"
+      ],
+      "interests": "projects",
+      "goals": "",
+      "createdAt": "2026-10-29T14:50:50.129Z"
+    }
+  ],
+  "challenges": [],
+  "applications": [],
+  "members": [
+    {
+      "id": "m1",
+      "name": "Aarav S.",
+      "role": "Frontend Developer",
+      "skills": [
+        "javascript",
+        "react",
+        "html",
+        "css"
+      ],
+      "interests": "web, startups"
+    },
+    {
+      "id": "m2",
+      "name": "Meera K.",
+      "role": "UI/UX Designer",
+      "skills": [
+        "ui/ux",
+        "figma",
+        "design",
+        "research"
+      ],
+      "interests": "product, startups"
+    },
+    {
+      "id": "m3",
+      "name": "Rohan P.",
+      "role": "Data Analyst",
+      "skills": [
+        "python",
+        "excel",
+        "data analysis",
+        "analytics"
+      ],
+      "interests": "data, finance"
+    },
+    {
+      "id": "m4",
+      "name": "Sana M.",
+      "role": "Market Researcher",
+      "skills": [
+        "research",
+        "communication",
+        "strategy",
+        "analysis"
+      ],
+      "interests": "market, social impact"
+    },
+    {
+      "id": "m5",
+      "name": "Dev T.",
+      "role": "Project Lead",
+      "skills": [
+        "planning",
+        "communication",
+        "business",
+        "teamwork"
+      ],
+      "interests": "startups, innovation"
+    },
+    {
+      "id": "m6",
+      "name": "Ishita R.",
+      "role": "Full-stack Developer",
+      "skills": [
+        "python",
+        "react",
+        "javascript",
+        "prototyping"
+      ],
+      "interests": "ai, mvp, web"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "Onboarding Redesign",
+      "org": "PayNest (sample fintech)",
+      "category": "Design",
+      "weeks": 4,
+      "teamSize": 4,
+      "level": "Beginner friendly",
+      "skills": [
+        "UI/UX",
+        "Figma",
+        "Research"
+      ],
+      "summary": "Cut drop-off in a sign-up flow by testing and redesigning each step.",
+      "milestones": [
+        "Audit the current flow",
+        "Interview 5 users",
+        "Design wireframes",
+        "Present prototype"
+      ]
+    },
+    {
+      "id": "proj-2",
+      "title": "Local Shop Website",
+      "org": "GreenLeaf Grocers (sample MSME)",
+      "category": "Development",
+      "weeks": 3,
+      "teamSize": 3,
+      "level": "Beginner friendly",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "summary": "Build a fast, mobile-first site with a product catalogue and order enquiry form.",
+      "milestones": [
+        "Agree page structure",
+        "Build responsive layout",
+        "Add catalogue + form",
+        "Launch and hand over"
+      ]
+    },
+    {
+      "id": "proj-3",
+      "title": "Customer Churn Insights",
+      "org": "StreamBox (sample SaaS)",
+      "category": "Data",
+      "weeks": 4,
+      "teamSize": 3,
+      "level": "Intermediate",
+      "skills": [
+        "Python",
+        "Excel",
+        "Data analysis"
+      ],
+      "summary": "Explore a sample dataset and recommend three actions to retain subscribers.",
+      "milestones": [
+        "Clean the dataset",
+        "Find churn drivers",
+        "Build charts",
+        "Present recommendations"
+      ]
+    },
+    {
+      "id": "proj-4",
+      "title": "Market Entry Study",
+      "org": "AgroLink (sample startup)",
+      "category": "Research",
+      "weeks": 3,
+      "teamSize": 4,
+      "level": "All levels",
+      "skills": [
+        "Research",
+        "Strategy",
+        "Communication"
+      ],
+      "summary": "Size a new regional market and shortlist the first 10 customers to approach.",
+      "milestones": [
+        "Define market segments",
+        "Collect 15 data points",
+        "Draft report",
+        "Pitch findings"
+      ]
+    },
+    {
+      "id": "proj-5",
+      "title": "48-Hour MVP Sprint",
+      "org": "VentureBridge Sprint",
+      "category": "Innovation",
+      "weeks": 1,
+      "teamSize": 5,
+      "level": "All levels",
+      "skills": [
+        "Ideation",
+        "Teamwork",
+        "Prototyping"
+      ],
+      "summary": "Turn a problem statement into a clickable MVP and a 3-minute pitch.",
+      "milestones": [
+        "Pick the problem",
+        "Sketch solution",
+        "Build prototype",
+        "Pitch"
+      ]
+    }
+  ],
+  "careers": [
+    {
+      "id": "career-1",
+      "title": "UX Design Intern",
+      "org": "Sample: Orbit Labs",
+      "type": "Internship",
+      "location": "Remote",
+      "skills": [
+        "UI/UX",
+        "Figma",
+        "Research"
+      ]
+    },
+    {
+      "id": "career-2",
+      "title": "Frontend Developer Intern",
+      "org": "Sample: BrightCart",
+      "type": "Internship",
+      "location": "Hybrid",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ]
+    },
+    {
+      "id": "career-3",
+      "title": "Junior Data Analyst",
+      "org": "Sample: Finlytics",
+      "type": "Full-time",
+      "location": "On-site",
+      "skills": [
+        "Python",
+        "Excel",
+        "Data analysis"
+      ]
+    },
+    {
+      "id": "career-4",
+      "title": "Brand Research Project",
+      "org": "Sample: Kiran & Co.",
+      "type": "Paid project",
+      "location": "Remote",
+      "skills": [
+        "Research",
+        "Communication",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "career-5",
+      "title": "Founding Product Associate",
+      "org": "Sample: Seedling",
+      "type": "Startup",
+      "location": "Remote",
+      "skills": [
+        "Planning",
+        "Prototyping",
+        "Communication"
+      ]
+    },
+    {
+      "id": "career-6",
+      "title": "Landing Page Freelance Gig",
+      "org": "Sample: PetPal",
+      "type": "Paid project",
+      "location": "Remote",
+      "skills": [
+        "HTML",
+        "CSS",
+        "UI/UX"
+      ]
+    }
+  ],
+  "memberships": [],
+  "invites": [],
+  "saved": []
+}
